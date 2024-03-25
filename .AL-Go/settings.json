@@ -1,5 +1,9 @@
 {
-  "country": "us",
+  "country": "de",
+  "additionalCountries": [
+    "ch",
+    "at"
+  ],
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": []
