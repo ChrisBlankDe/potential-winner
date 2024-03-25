@@ -11,7 +11,8 @@
 				"ms-dynamics-smb.al",
 				"waldo.crs-al-language-extension",
 				"vjeko.vjeko-al-objid",
-				"andrzejzwierzchowski.al-code-outline"
+				"andrzejzwierzchowski.al-code-outline",
+				"davidfeldhoff.al-codeactions"
 			]
 		}
 	}
