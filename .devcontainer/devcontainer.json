@@ -1,0 +1,18 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"features": {
+		"ghcr.io/devcontainers/features/powershell:1": {
+			"version": "latest"
+		}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-dynamics-smb.al",
+				"waldo.crs-al-language-extension",
+				"vjeko.vjeko-al-objid",
+				"andrzejzwierzchowski.al-code-outline"
+			]
+		}
+	}
+}
