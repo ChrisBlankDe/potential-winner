@@ -8,5 +8,10 @@ pageextension 50100 CustomerListExt extends "Customer List"
     begin
         Message('App published: Hello world');
     end;
+
+    procedure GetSetCust(CurrCustomer: Record Customer): Record Customer
+    begin
+        exit(CurrCustomer);
+    end;
 }
 
